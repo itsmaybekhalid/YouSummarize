@@ -1,5 +1,4 @@
 # YouSummarize
-أكيد. ده `README.md` كامل ومناسب جدًا للمشروع بتاعك، ومكتوب بشكل احترافي من غير ما يكون مبالغ فيه:
 
 # AI-Powered YouTube Video Transcription and Summarization
 
